@@ -28,7 +28,7 @@ dependencies = [
   "torchcrepe",
   "praat-parselmouth>=0.4.2",
   "numpy<=1.23.5",
-  "git+https://github.com/One-sixth/fairseq.git",
+  "fairseq@git+https://github.com/One-sixth/fairseq",
   "faiss-cpu==1.7.3",
   "av",
   "loguru",
