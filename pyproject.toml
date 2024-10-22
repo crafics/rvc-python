@@ -44,3 +44,8 @@ Homepage = "https://github.com/daswer123/rvc-python"
 
 [tool.hatch.build.targets.wheel]
 only-include=["rvc_python"]
+
+[tool.hatch.metadata]
+allow-direct-references=true
+
+
